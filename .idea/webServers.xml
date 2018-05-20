@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9aa4826a-1491-4207-91ad-ae5f9eb9cb7f" name="studentpc182" url="http://133.2.208.182">
+        <fileTransfer host="133.2.208.182" port="22" rootFolder="/home/takagikazunari/projects" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
